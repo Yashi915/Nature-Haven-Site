@@ -1,1 +1,1 @@
-# Nature-Haven-Site
+My Project name is Nature Haven. This project is dedicated to create a website that celebrates the beauty of nature and promotes a sense of belonging to the natural world. I use HTML and CSS to provide these features like Blogs, Photos, Services, Nature Projects, etc. on this website but still it is only like a template for nature belonging websites so you can easily contribute to transform it into a fully working website by only just clone this code into VS-Code and click on Live Server to display its output. 
